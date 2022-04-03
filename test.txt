@@ -1,1 +1,6 @@
 This is my first commit!
+
+And here we go wich commit 2! 
+commit 5aa74e33695f3b52989c1dc3dd18bed10d31ffcb (HEAD -> master)
+Author: Albert Hrabovetskyi <gggopnik27@gmail.com>
+Date:   Sun Apr 3 14:28:29 2022 +0300
