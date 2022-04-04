@@ -1,4 +1,4 @@
-This is my first commit!
+This is another and again commit!
 
 And here we go wich commit 2! 
 commit 5aa74e33695f3b52989c1dc3dd18bed10d31ffcb (HEAD -> master)
